@@ -1,4 +1,4 @@
-# demo_app
+# Stock simulator app
 
 A Flutter project about stock simulator.
 
